@@ -1,1 +1,2 @@
 git remote add origin https://github.com/addalanagesh/gitPractice.gitgit remote add origin https://github.com/addalanagesh/gitPractice.gitgit remote add origin https://github.com/addalanagesh/gitPractice.gitsecond branch file
+added by nagesh user in the branch file
