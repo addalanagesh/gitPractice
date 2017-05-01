@@ -2,3 +2,4 @@ testing
 dir testing
 rinf ditng 
 fntgt
+git user practice and commit
