@@ -1,1 +1,1 @@
-second branch file
+git remote add origin https://github.com/addalanagesh/gitPractice.gitgit remote add origin https://github.com/addalanagesh/gitPractice.gitgit remote add origin https://github.com/addalanagesh/gitPractice.gitsecond branch file
